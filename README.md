@@ -12,4 +12,4 @@ ne.
 6. Cyclone_Material_Temp – Temperature of the material at the outlet of the cyclone.
    
 Output:
-● Insights – Time Series Analysis to detect the abnormalities and find the abnormal periods.
+Insights – Time Series Analysis to detect the abnormalities and find the abnormal periods.

@@ -10,5 +10,6 @@ There are 6 variables and 370k records. Data is recorded once every 5 minutes ov
 5. Cyclone_Inlet_Draft – Draft (pressure) of gas at inlet of cyclo
 ne.
 6. Cyclone_Material_Temp – Temperature of the material at the outlet of the cyclone.
+   
 Output:
 ● Insights – Time Series Analysis to detect the abnormalities and find the abnormal periods.

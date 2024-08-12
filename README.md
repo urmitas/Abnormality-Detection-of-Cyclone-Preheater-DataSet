@@ -11,5 +11,10 @@ There are 6 variables and 370k records. Data is recorded once every 5 minutes ov
 ne.
 6. Cyclone_Material_Temp – Temperature of the material at the outlet of the cyclone.
    
-Output:
-Insights – Time Series Analysis to detect the abnormalities and find the abnormal periods.
+Cyclone Preheater Data Analysis: Analyzed a cyclone preheater dataset containing 370,000 records to identify periods of abnormal operations using PyCaret's anomaly detection module.
+
+Data Preprocessing and Cleaning: Implemented data preprocessing techniques, such as handling missing values and outliers, to maintain data integrity and improve analysis accuracy.
+
+Anomaly Detection with Machine Learning: Developed and deployed anomaly detection models, including Isolation Forest and K-Nearest Neighbors (KNN) using PyCaret, to detect and highlight operational abnormalities in the dataset.
+
+Visualization of Results: Utilized PyCaret to generate insightful visualizations of anomaly detection results, facilitating clear understanding and communication of findings to stakeholders.

@@ -1,5 +1,5 @@
 Objective:
-Using python and algorithms to highlight the time periods where this abnormality can be
+Using python algorithms to highlight the time periods where this abnormality can be
 observed.
 About the data:
 There are 6 variables and 370k records. Data is recorded once every 5 minutes over a duration of 3 years.
